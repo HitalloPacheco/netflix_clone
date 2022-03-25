@@ -26,31 +26,31 @@ const Main = () => {
               <ImgContainer className="char">
                 <BigHead />
               </ImgContainer>
-              Hitallo
+              Fulano
             </Card>
             <Card>
               <ImgContainer className="char">
                 <BigHead />
               </ImgContainer>
-              Junior
+              Ciclano
             </Card>
             <Card>
               <ImgContainer className="char">
                 <BigHead />
               </ImgContainer>
-              Nilo
+              Beutrano
             </Card>
             <Card>
               <ImgContainer className="char">
                 <BigHead />
               </ImgContainer>
-              Zeni
+              Josué
             </Card>
             <Card>
               <ImgContainer className="char">
                 <BigHead />
               </ImgContainer>
-              Kamilla
+              Arnaldo
             </Card>
           </Cards>
           <ManegePerfil>Gerenciar perfis</ManegePerfil>
